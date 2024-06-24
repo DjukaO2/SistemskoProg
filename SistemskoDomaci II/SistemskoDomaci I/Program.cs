@@ -93,13 +93,13 @@ namespace WebServer
         {
             if (cache.TryGetValue(filePath, out byte[] cachedFileBytes))
             {
-                Console.WriteLine($"Pribavljanje {filePath} iz cache-a");
+                 Console.WriteLine($"Pribavljanje {filePath} iz cache-a");
                 return cachedFileBytes;
             }
             else
             {
                 byte[] fileBytes = await File.ReadAllBytesAsync(filePath);
-                cache[filePath] = fileBytes; // Add file content to cache
+                cache[filePath] = fileBytes; 
                 Console.WriteLine($"Čita se  {filePath} sa diska i dodaje se u cache");
                 return fileBytes;
             }
