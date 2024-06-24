@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Petar Djukic\\Desktop\\OracleWebAPI\\Sistemsko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4FDEB7-5881-4E7A-AE13-189D8044C153}|Sistemsko\\Sistemsko.csproj|c:\\users\\petar djukic\\desktop\\oraclewebapi\\sistemsko\\sistemsko\\clanakstream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4FDEB7-5881-4E7A-AE13-189D8044C153}|Sistemsko\\Sistemsko.csproj|solutionrelative:sistemsko\\clanakstream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4FDEB7-5881-4E7A-AE13-189D8044C153}|Sistemsko\\Sistemsko.csproj|c:\\users\\petar djukic\\desktop\\oraclewebapi\\sistemsko\\sistemsko\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4FDEB7-5881-4E7A-AE13-189D8044C153}|Sistemsko\\Sistemsko.csproj|solutionrelative:sistemsko\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4FDEB7-5881-4E7A-AE13-189D8044C153}|Sistemsko\\Sistemsko.csproj|c:\\users\\petar djukic\\desktop\\oraclewebapi\\sistemsko\\sistemsko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4FDEB7-5881-4E7A-AE13-189D8044C153}|Sistemsko\\Sistemsko.csproj|solutionrelative:sistemsko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4FDEB7-5881-4E7A-AE13-189D8044C153}|Sistemsko\\Sistemsko.csproj|c:\\users\\petar djukic\\desktop\\oraclewebapi\\sistemsko\\sistemsko\\clanakobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4FDEB7-5881-4E7A-AE13-189D8044C153}|Sistemsko\\Sistemsko.csproj|solutionrelative:sistemsko\\clanakobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4FDEB7-5881-4E7A-AE13-189D8044C153}|Sistemsko\\Sistemsko.csproj|c:\\users\\petar djukic\\desktop\\oraclewebapi\\sistemsko\\sistemsko\\topicmodeling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4FDEB7-5881-4E7A-AE13-189D8044C153}|Sistemsko\\Sistemsko.csproj|solutionrelative:sistemsko\\topicmodeling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4FDEB7-5881-4E7A-AE13-189D8044C153}|Sistemsko\\Sistemsko.csproj|c:\\users\\petar djukic\\desktop\\oraclewebapi\\sistemsko\\sistemsko\\clanak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4FDEB7-5881-4E7A-AE13-189D8044C153}|Sistemsko\\Sistemsko.csproj|solutionrelative:sistemsko\\clanak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4FDEB7-5881-4E7A-AE13-189D8044C153}|Sistemsko\\Sistemsko.csproj|c:\\users\\petar djukic\\desktop\\oraclewebapi\\sistemsko\\sistemsko\\newsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4FDEB7-5881-4E7A-AE13-189D8044C153}|Sistemsko\\Sistemsko.csproj|solutionrelative:sistemsko\\newsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\Petar Djukic\\Desktop\\OracleWebAPI\\Sistemsko\\Sistemsko\\CacheService.cs",
+              "RelativeDocumentMoniker": "Sistemsko\\CacheService.cs",
+              "ToolTip": "C:\\Users\\Petar Djukic\\Desktop\\OracleWebAPI\\Sistemsko\\Sistemsko\\CacheService.cs",
+              "RelativeToolTip": "Sistemsko\\CacheService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:22:55.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clanak.cs",
+              "DocumentMoniker": "C:\\Users\\Petar Djukic\\Desktop\\OracleWebAPI\\Sistemsko\\Sistemsko\\Clanak.cs",
+              "RelativeDocumentMoniker": "Sistemsko\\Clanak.cs",
+              "ToolTip": "C:\\Users\\Petar Djukic\\Desktop\\OracleWebAPI\\Sistemsko\\Sistemsko\\Clanak.cs",
+              "RelativeToolTip": "Sistemsko\\Clanak.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:06:01.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Petar Djukic\\Desktop\\OracleWebAPI\\Sistemsko\\Sistemsko\\Program.cs",
+              "RelativeDocumentMoniker": "Sistemsko\\Program.cs",
+              "ToolTip": "C:\\Users\\Petar Djukic\\Desktop\\OracleWebAPI\\Sistemsko\\Sistemsko\\Program.cs",
+              "RelativeToolTip": "Sistemsko\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:03:07.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TopicModeling.cs",
+              "DocumentMoniker": "C:\\Users\\Petar Djukic\\Desktop\\OracleWebAPI\\Sistemsko\\Sistemsko\\TopicModeling.cs",
+              "RelativeDocumentMoniker": "Sistemsko\\TopicModeling.cs",
+              "ToolTip": "C:\\Users\\Petar Djukic\\Desktop\\OracleWebAPI\\Sistemsko\\Sistemsko\\TopicModeling.cs",
+              "RelativeToolTip": "Sistemsko\\TopicModeling.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:01:54.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClanakStream.cs",
+              "DocumentMoniker": "C:\\Users\\Petar Djukic\\Desktop\\OracleWebAPI\\Sistemsko\\Sistemsko\\ClanakStream.cs",
+              "RelativeDocumentMoniker": "Sistemsko\\ClanakStream.cs",
+              "ToolTip": "C:\\Users\\Petar Djukic\\Desktop\\OracleWebAPI\\Sistemsko\\Sistemsko\\ClanakStream.cs",
+              "RelativeToolTip": "Sistemsko\\ClanakStream.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIAwwBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T00:59:34.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewsApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Petar Djukic\\Desktop\\OracleWebAPI\\Sistemsko\\Sistemsko\\NewsApiService.cs",
+              "RelativeDocumentMoniker": "Sistemsko\\NewsApiService.cs",
+              "ToolTip": "C:\\Users\\Petar Djukic\\Desktop\\OracleWebAPI\\Sistemsko\\Sistemsko\\NewsApiService.cs",
+              "RelativeToolTip": "Sistemsko\\NewsApiService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:01:15.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClanakObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Petar Djukic\\Desktop\\OracleWebAPI\\Sistemsko\\Sistemsko\\ClanakObserver.cs",
+              "RelativeDocumentMoniker": "Sistemsko\\ClanakObserver.cs",
+              "ToolTip": "C:\\Users\\Petar Djukic\\Desktop\\OracleWebAPI\\Sistemsko\\Sistemsko\\ClanakObserver.cs",
+              "RelativeToolTip": "Sistemsko\\ClanakObserver.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:00:31.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
